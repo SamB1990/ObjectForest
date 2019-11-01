@@ -1,0 +1,7 @@
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\bin\Release\netstandard2.0\ObjectForest.Abstrations.deps.json
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\bin\Release\netstandard2.0\ObjectForest.Abstrations.dll
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\bin\Release\netstandard2.0\ObjectForest.Abstrations.pdb
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\obj\Release\netstandard2.0\ObjectForest.Abstrations.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\obj\Release\netstandard2.0\ObjectForest.Abstrations.AssemblyInfo.cs
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\obj\Release\netstandard2.0\ObjectForest.Abstrations.dll
+C:\Users\sam\source\repos\ObjectForest\src\Abstrations\obj\Release\netstandard2.0\ObjectForest.Abstrations.pdb

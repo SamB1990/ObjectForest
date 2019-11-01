@@ -1,0 +1,11 @@
+C:\Users\sam\source\repos\ObjectForest\src\bin\Debug\netstandard2.0\ObjectForest.deps.json
+C:\Users\sam\source\repos\ObjectForest\src\bin\Debug\netstandard2.0\ObjectForest.dll
+C:\Users\sam\source\repos\ObjectForest\src\bin\Debug\netstandard2.0\ObjectForest.pdb
+C:\Users\sam\source\repos\ObjectForest\src\bin\Debug\netstandard2.0\ObjectForest.Abstrations.dll
+C:\Users\sam\source\repos\ObjectForest\src\bin\Debug\netstandard2.0\ObjectForest.Abstrations.pdb
+C:\Users\sam\source\repos\ObjectForest\src\obj\Debug\netstandard2.0\ObjectForest.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\ObjectForest\src\obj\Debug\netstandard2.0\ObjectForest.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\ObjectForest\src\obj\Debug\netstandard2.0\ObjectForest.AssemblyInfo.cs
+C:\Users\sam\source\repos\ObjectForest\src\obj\Debug\netstandard2.0\ObjectForest.csproj.CopyComplete
+C:\Users\sam\source\repos\ObjectForest\src\obj\Debug\netstandard2.0\ObjectForest.dll
+C:\Users\sam\source\repos\ObjectForest\src\obj\Debug\netstandard2.0\ObjectForest.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ObjectForest.Abstrations</id>
+    <version>1.0.0</version>
+    <authors>Sam Blundell</authors>
+    <owners>Sam Blundell</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>An Academic style project, the object forset is a runtime sytle object class builder/handler allowing you to build Trees(classes) with leaves(Properties) and also branches(inheriting class) which also contain leaves(more properties) and this is repeated as far down as you wish to go. Each tree has a current point(class) at which you are within the tree ad this is the class that you can inspect.</description>
+    <copyright>Copyright (c) 2019 Sam Blundell</copyright>
+    <repository type="github" url="https://github.com/SamB1990/ObjectForest" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sam\source\repos\ObjectForest\src\Abstrations\bin\Release\netstandard2.0\ObjectForest.Abstrations.dll" target="lib\netstandard2.0\ObjectForest.Abstrations.dll" />
+    <file src="C:\Users\sam\source\repos\ObjectForest\LICENSE" target="LICENSE" />
+  </files>
+</package>

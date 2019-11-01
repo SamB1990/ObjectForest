@@ -1,0 +1,8 @@
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\bin\Debug\netstandard2.0\ContainerTree.deps.json
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\bin\Debug\netstandard2.0\ContainerTree.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\bin\Debug\netstandard2.0\ContainerTree.pdb
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\obj\Debug\netstandard2.0\ContainerTree.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\obj\Debug\netstandard2.0\ContainerTree.AssemblyInfo.cs
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\obj\Debug\netstandard2.0\ContainerTree.dll
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\obj\Debug\netstandard2.0\ContainerTree.pdb
+C:\Users\sam\source\repos\SamB1990\MSSQL_CLR_Extractor\Src\ContainerTree\obj\Debug\netstandard2.0\ContainerTree.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.deps.json
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.dll
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.pdb
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.Abstrations.dll
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.dll
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.Abstrations.pdb
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\bin\Debug\netcoreapp3.0\ObjectForest.pdb
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\obj\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\obj\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\obj\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.AssemblyInfo.cs
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\obj\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.csproj.CopyComplete
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\obj\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.dll
+C:\Users\sam\source\repos\ObjectForest\src\DependencyInjection\obj\Debug\netcoreapp3.0\ObjectForest.DependencyInjection.pdb

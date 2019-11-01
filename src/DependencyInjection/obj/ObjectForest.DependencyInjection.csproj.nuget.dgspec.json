@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\DependencyInjection\\ObjectForest.DependencyInjection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj",
+        "projectName": "ObjectForest.Abstrations",
+        "projectPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj",
+        "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\DependencyInjection\\ObjectForest.DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\DependencyInjection\\ObjectForest.DependencyInjection.csproj",
+        "projectName": "ObjectForest.DependencyInjection",
+        "projectPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\DependencyInjection\\ObjectForest.DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj": {
+                "projectPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj"
+              },
+              "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\ObjectForest.csproj": {
+                "projectPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\ObjectForest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\ObjectForest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\ObjectForest.csproj",
+        "projectName": "ObjectForest",
+        "projectPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\ObjectForest.csproj",
+        "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj": {
+                "projectPath": "C:\\Users\\sam\\source\\repos\\ObjectForest\\src\\Abstrations\\ObjectForest.Abstrations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
